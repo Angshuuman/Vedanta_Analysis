@@ -24,3 +24,6 @@
 ## Holdings:
 - **Funds**: HDFC, SBI, Kotak, Birla
 - **Promoter Holdings**: Highest among peers
+
+## Disclaimer
+Investing in the stock market involves risks, including the potential loss of capital. This is not any investment recommendation and I'm not responsible for loss.Please conduct your own research and before making any investment decisions.
