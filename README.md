@@ -18,6 +18,8 @@
 - Undervaluation than sector
 - Considered a bluechip stock
 - High Dividended yield
+- Lower Debt to equity ratio
+- High promoter holding
 
 ## Holdings:
 - **Funds**: HDFC, SBI, Kotak, Birla
